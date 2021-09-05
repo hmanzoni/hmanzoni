@@ -18,18 +18,18 @@
 
 - 📫 How to reach me **hugocarrizomanzoni@gmail.com**
 
-### Connect with me:
+### Connect with me 📡:
 <p align="left">
   <!-- <a href="#" target="_blank">
     <img src="./icons/icons8-website-64.png" alt="website" />
   </a> -->
   <a href="https://linkedin.com/in/hugo-manzoni" target="_blank">
-    <img src="./icons/icons8-linkedin-64.png" alt="linkedin" />
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" />
   </a>
   <a href="https://www.instagram.com/hugoinwonderland/" target="_blank">
-    <img src="./icons/icons8-instagram-logo-64.png" alt="instagram" />
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" />
   </a>
   <a href="https://stackoverflow.com/users/11298102" target="_blank">
-    <img src="./icons/icons8-stack-overflow-48-2.png" alt="stackoverflow" />
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="stackoverflow" />
   </a>
 </p>
