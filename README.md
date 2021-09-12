@@ -59,13 +59,13 @@
     width="48"
   />
 </a>
-<a href="https://www.python.org" target="_blank">
+<!-- <a href="https://www.python.org" target="_blank">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
     alt="python"
     width="48"
   />
-</a>
+</a> -->
 
 - Frontend Development
 <br>
@@ -138,13 +138,13 @@
 
 - Backend Development
 <br>
-<a href="https://www.nginx.com" target="_blank">
+<!-- <a href="https://www.nginx.com" target="_blank">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
     alt="nginx"
     width="48"
   />
-</a>
+</a> -->
 <a href="https://nodejs.org" target="_blank">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
