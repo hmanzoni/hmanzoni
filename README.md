@@ -208,14 +208,14 @@
     </a>
 
 - Devops and Backend as a Service
-  - <a href="https://aws.amazon.com" target="_blank"rel="noreferrer">
+  - <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
         alt="aws"
         width="48"
       />
     </a>
-    <a href="https://www.vagrantup.com/" target="_blank"rel="noreferrer">
+    <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg"
         alt="vagrant"
