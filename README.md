@@ -2,27 +2,27 @@
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" />
 </p>
-<h3 align="center">A passionate FrontEnd developer from Argentina</h3>
+<h3 align="center">A passionate Software engineer from Argentina</h3>
 
-- 🔭 I’m currently working in **Trueblue**
+- 🔭 I’m currently working in **Flowing**
 
-- 🌱 I’m currently learning **ReactJS and NodeJS**
+- 🌱 I’m currently learning **AWS - Cloud Services**
 
-- 🥅 My 2022 Goals: **Learn more JS and Python and be more active on GitHub**.
+- 🥅 My 2023 Goals: **Get more AWS certifications - Learn more Python and NodeJS**.
 
 - 🏠 Currently living in **Italy**.
 
 - 🤝 I’m looking for help with **my programming and biochemistry knowledge**
 
-- 💬 Ask me about **ReactJS - NodeJS**
+- 💬 Ask me about **NodeJS, DevOps and AWS**
 
-- 📫 How to reach me **hugocarrizomanzoni@gmail.com**
+- 📫 How to reach me **hugocmdesign@gmail.com**
 
 ### Connect with me 📡:
 <p align="left">
-  <!-- <a href="#" target="_blank" rel="noreferrer">
-    <img src="./icons/icons8-website-64.png" alt="website" />
-  </a> -->
+  <a href="https://hugoindevworld.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/clouds/100/000000/domain.png" alt="website" />
+  </a>
   <a href="https://linkedin.com/in/hugo-manzoni" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" />
   </a>
@@ -66,7 +66,7 @@
       />
     </a>
 
-- Frontend Development
+- Frontend Development and Mobile App Development
   - <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -123,86 +123,10 @@
         width="48"
       />
     </a>
-
-- Mobile App Development
-  - <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
       <img
         src="https://reactnative.dev/img/header_logo.svg"
         alt="reactnative"
-        width="48"
-      />
-    </a>
-
-- Backend Development
-  - <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-        alt="nodejs"
-        width="48"
-      />
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-        alt="express"
-        width="48"
-      />
-    </a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
-        alt="laravel"
-        width="48"
-      />
-    </a>
-    <a href="https://djangoproject.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://cdn.worldvectorlogo.com/logos/django.svg"
-        alt="django"
-        width="48"
-      />
-    </a>
-<!-- <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
-    alt="nginx"
-    width="48"
-  />
-</a> -->
-
-- Database
-  - <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"
-        alt="mariadb"
-        width="48"
-      />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-        alt="mongodb"
-        width="48"
-      />
-    </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
-        alt="mssql"
-        width="48"
-      />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-        alt="mysql"
-        width="48"
-      />
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-        alt="postgresql"
         width="48"
       />
     </a>
@@ -261,6 +185,80 @@
       <img
         src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
         alt="heroku"
+        width="48"
+      />
+    </a>
+
+- Backend Development
+  - <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+        alt="nodejs"
+        width="48"
+      />
+    </a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+        alt="express"
+        width="48"
+      />
+    </a>
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+        alt="laravel"
+        width="48"
+      />
+    </a>
+    <a href="https://djangoproject.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://cdn.worldvectorlogo.com/logos/django.svg"
+        alt="django"
+        width="48"
+      />
+    </a>
+    <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
+        alt="nginx"
+        width="48"
+      />
+    </a>
+
+- Database
+  - <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"
+        alt="mariadb"
+        width="48"
+      />
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+        alt="mongodb"
+        width="48"
+      />
+    </a>
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
+        alt="mssql"
+        width="48"
+      />
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+        alt="mysql"
+        width="48"
+      />
+    </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+        alt="postgresql"
         width="48"
       />
     </a>
