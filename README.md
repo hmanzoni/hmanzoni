@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hugo</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" />
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hugomanzoni&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
 </p>
 
@@ -155,9 +156,7 @@
   </a>
 
 <!-- Badges Sections -->
-
 <br><br>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hugomanzoni&show_icons=true&locale=en" alt="GitHub Stats" />
   <br><br>
