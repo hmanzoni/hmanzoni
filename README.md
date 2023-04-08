@@ -47,6 +47,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" />
 </a>
 
+<br />
+
 - Frontend Development and Mobile App Development
 <br />
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -77,6 +79,8 @@
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="48" />
 </a>
 
+<br />
+
 - Devops and Backend as a Service
 <br />
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -104,6 +108,8 @@
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="48" />
 </a>
 
+<br />
+
 - Backend Development
 <br />
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -122,6 +128,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="48" />
 </a>
 
+<br />
+
 - Database
 <br />
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
@@ -139,6 +147,8 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="48" />
 </a>
+
+<br />
 
 - Others (Testing, Static Site Generators, Software and more...)
 <br />
