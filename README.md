@@ -4,7 +4,7 @@
 </p>
 <h3 align="center">A passionate Software engineer from Argentina</h3>
 
-- 🔭 I’m currently working in **Flowing**
+- 🔭 I’m currently working in **Claranet**
 
 - 🌱 I’m currently learning **AWS - Cloud Services**
 
@@ -308,12 +308,12 @@
 
 <!-- Badges Sections -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hcaman&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hugomanzoni&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hcaman&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hcaman&" alt="Streaks" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hugomanzoni&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hugomanzoni&" alt="Streaks" />
 </p>
