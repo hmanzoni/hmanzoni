@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hugomanzoni&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hmanzoni&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
 </p>
 
 ## A passionate software engineer from Argentina
@@ -158,7 +158,7 @@
 <!-- Badges Sections -->
 <br><br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hugomanzoni&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hmanzoni&show_icons=true&locale=en" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hugomanzoni&" alt="Streaks" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hmanzoni&" alt="Streaks" />
 </p>
